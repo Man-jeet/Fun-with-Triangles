@@ -36,6 +36,7 @@ button {
   color: #fff;
   font-size: large;
   border-radius: 50px;
+  cursor: pointer;
 }
 #output-box {
   text-align: center;
@@ -54,6 +55,8 @@ button {
   text-align: center;
   font-size: x-large;
   margin: 2rem;
+  color: red;
+  font-weight: bold;
 }
 .para {
   text-align: center;
@@ -62,4 +65,10 @@ button {
 }
 .q-para {
   font-size: x-large;
+}
+
+
+.color{
+  color: green !important;
+  font-weight: bold;
 }
